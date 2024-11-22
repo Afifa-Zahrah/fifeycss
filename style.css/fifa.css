@@ -1,0 +1,63 @@
+.main{
+    background-color: rgb(214, 174, 64);
+    height: 500px;
+    width: 1500px;
+} 
+h1,h2,h3{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    line-height: 40%;
+    letter-spacing: 9px;
+    
+    
+}
+
+.div1{
+    display: flex;
+            gap: 100px;
+            padding-right: 50px;
+            flex-direction: row;
+            justify-content: center;
+            text-align: center;
+            font-size: 20px;
+            font-family: 'Courier New', Courier, monospace;
+            border-top: 4px solid;
+            border-bottom: 4px solid;
+            border-color: black;
+            text-decoration: none;
+}
+.intro{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    word-spacing: 5px;
+    
+
+}
+img{
+    height: 180px;
+    width: 180px;
+    flex-direction: row;
+    padding-right: 200px;
+
+
+}
+.LAP1{
+
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.LAP2{
+
+    margin: 0%;
+    padding: 0%;
+
+}
+
+.LAP3{
+
+    margin: 0%;
+    padding: 0%;
+
+}
